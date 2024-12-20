@@ -37,6 +37,8 @@ The final reconstructed building and recolored images were integrated into a **v
 1. Download Demo/Windows/RM_Basic
 2. Run RM_Museum.exe
 
+3. https://drive.google.com/drive/folders/1gZ46NKUmLMJFzezy-NfEap7wVp6yxyGd?usp=sharing
+
 
 ## Acknowledgments
 This project was a collaboration between:
