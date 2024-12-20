@@ -35,17 +35,19 @@ The final reconstructed building and recolored images were integrated into a **v
 
 ## How to Use:
 1. **Download**  
-   Visit the following link to download the desired version: [Google Drive Link To Demos](https://drive.google.com/drive/folders/1MXiU92qgDcH8faPy4cuYynGJqp206S4X?usp=sharing).  
+   Visit the following link to download the desired version: [Google Drive Link To Demos](https://drive.google.com/drive/folders/1MXiU92qgDcH8faPy4cuYynGJqp206S4X?usp=sharing).
+   - **Light Version**: Runs on **DirectX 11**.  
+   - **Full Version**: Runs on **DirectX 12**. 
 
-2. **Extract**  
+3. **Extract**  
    Unzip the downloaded file and locate `RM_Museum.exe`.  
 
-3. **Run the Program**  
+4. **Run the Program**  
    Double-click on `RM_Museum.exe`. If Windows displays a warning:  
    - Click **Advanced Options**.  
    - Select **Run Anyway**.  
 
-4. **Install Pre-Requisites**  
+5. **Install Pre-Requisites**  
    If prompted, install any required dependencies to ensure the program functions correctly.
 
 ## Acknowledgments
