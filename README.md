@@ -33,12 +33,20 @@ The final reconstructed building and recolored images were integrated into a **v
 
 ---
 
-## How to Use [NOTE: Currenlty doesn't work]
-1. Download Demo/Windows/RM_Basic
-2. Run RM_Museum.exe
+## How to Use:
+1. **Download**  
+   Visit the following link to download the desired version: [Google Drive Link To Demos](https://drive.google.com/drive/folders/1MXiU92qgDcH8faPy4cuYynGJqp206S4X?usp=sharing).  
 
-3. https://drive.google.com/drive/folders/1gZ46NKUmLMJFzezy-NfEap7wVp6yxyGd?usp=drive_link
+2. **Extract**  
+   Unzip the downloaded file and locate `RM_Museum.exe`.  
 
+3. **Run the Program**  
+   Double-click on `RM_Museum.exe`. If Windows displays a warning:  
+   - Click **Advanced Options**.  
+   - Select **Run Anyway**.  
+
+4. **Install Pre-Requisites**  
+   If prompted, install any required dependencies to ensure the program functions correctly.
 
 ## Acknowledgments
 This project was a collaboration between:
