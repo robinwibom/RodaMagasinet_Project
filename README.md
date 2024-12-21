@@ -50,6 +50,15 @@ The final reconstructed building and recolored images were integrated into a **v
 5. **Install Pre-Requisites**  
    If prompted, install any required dependencies to ensure the program functions correctly.
 
+---
+
+## For further development
+
+### 1. DeOldify
+   This project used the [DeOldify repo](https://github.com/jantic/DeOldify) and the completed artistic model available from DeOldify. Links to the weights used for the [generator](https://data.deepai.org/deoldify/ColorizeArtistic_gen.pth) and [critic](https://www.dropbox.com/s/xpq2ip9occuzgen/ColorizeArtistic_crit.pth?dl=0). The easiest way to further develop the recoloring might be to start from those and ignore the recoloring files in this repo, since they were not made with further development in mind. However to recreate our recoloring, clone the DeOldify repo and insert the Recoloring/DeOldify contents directly into the root repo, overwritng when prompted.
+
+---
+   
 ## Acknowledgments
 This project was a collaboration between:
 - **Linköping Municipality**
