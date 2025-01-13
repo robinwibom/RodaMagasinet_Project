@@ -33,13 +33,32 @@ The final reconstructed building and recolored images were integrated into a **v
 
 ---
 
-## How to Use [NOTE: Currenlty doesn't work]
-1. Download Demo/Windows/RM_Basic
-2. Run RM_Museum.exe
+## How to Use:
+1. **Download**  
+   Visit the following link to download the desired version: [Google Drive Link To Demos](https://drive.google.com/drive/folders/1MXiU92qgDcH8faPy4cuYynGJqp206S4X?usp=sharing).
+   - **Light Version**: Runs on **DirectX 11**.  
+   - **Full Version**: Runs on **DirectX 12**. 
 
-3. https://drive.google.com/drive/folders/1gZ46NKUmLMJFzezy-NfEap7wVp6yxyGd?usp=drive_link
+3. **Extract**  
+   Unzip the downloaded file and locate `RM_Museum.exe`.  
 
+4. **Run the Program**  
+   Double-click on `RM_Museum.exe`. If Windows displays a warning:  
+   - Click **Advanced Options**.  
+   - Select **Run Anyway**.  
 
+5. **Install Pre-Requisites**  
+   If prompted, install any required dependencies to ensure the program functions correctly.
+
+---
+
+## For further development
+
+### 1. DeOldify
+   This project used the [DeOldify repo](https://github.com/jantic/DeOldify) and the completed artistic model available from DeOldify. Links to the weights used for the [generator](https://data.deepai.org/deoldify/ColorizeArtistic_gen.pth) and [critic](https://www.dropbox.com/s/xpq2ip9occuzgen/ColorizeArtistic_crit.pth?dl=0). The easiest way to further develop the recoloring might be to start from those and ignore the recoloring files in this repo, since they were not made with further development in mind. However to recreate our recoloring, clone the DeOldify repo and insert the Recoloring/DeOldify contents directly into the root repo, overwritng when prompted.
+
+---
+   
 ## Acknowledgments
 This project was a collaboration between:
 - **Linköping Municipality**
